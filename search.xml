@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>打卡day03</title>
+      <link href="/2023/02/28/%E6%89%93%E5%8D%A1day03/"/>
+      <url>/2023/02/28/%E6%89%93%E5%8D%A1day03/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 打卡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>打卡day02</title>
+      <link href="/2023/02/25/%E6%89%93%E5%8D%A1day02/"/>
+      <url>/2023/02/25/%E6%89%93%E5%8D%A1day02/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天上午10点左右通关原子之心，下午想去优化一下博客的整体界面，结果优化完一堆报错，又给调回原样了，先学学再调吧。</p><p>明天看下高数一还有计算机二级的题</p><p>游戏变了，我也跟着变了，变得没有娱乐了</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 打卡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>打卡day01</title>
+      <link href="/2023/02/24/%E6%89%93%E5%8D%A1day01/"/>
+      <url>/2023/02/24/%E6%89%93%E5%8D%A1day01/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>昨天购买了原子之心，今天和舍友一起打了一天，真的是个很好玩的游戏，明天再来一个小时差不多就可以通关了。</p><p>做了一张漫画的图，顺带测试一下</p><p><img src="https://yuzhoucaitong-1258648662.cos.ap-beijing.myqcloud.com/test/image-20230307090411988.png" alt="image-20230307090411988"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 打卡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇博客</title>
+      <link href="/2023/02/22/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2023/02/22/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2023年2月23日</p><p>虽说是2.22创建的，但那天创建好已经晚上了，所以决定今天写下第一篇博客，用来记载一些个人介绍以及目前的目标</p><h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><p>cn：宇宙菜桐</p><p>专业：移动互联网应用技术</p><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><h3 id="学业"><a href="#学业" class="headerlink" title="学业"></a>学业</h3><p>计算机二级报名完成，3.25-27考试</p><p>专升本考试的准备</p><h3 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h3><p>需要2.3w，有0.7w</p><p>故需要精进h5以及微信小程序的学习，进行外包作业的制作，进行一部分的资金来源</p><p>没什么可写的，心血来潮跟着视频制作了一下个人博客，后续会进行页面的美观</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/02/22/hello-world/"/>
+      <url>/2023/02/22/hello-world/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
