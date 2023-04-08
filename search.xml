@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>写计算器时的一些问题</title>
+      <link href="/2023/04/08/%E5%86%99%E8%AE%A1%E7%AE%97%E5%99%A8%E6%97%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
+      <url>/2023/04/08/%E5%86%99%E8%AE%A1%E7%AE%97%E5%99%A8%E6%97%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>1.没有判断除数不能为0</p><p>给除法加一个if判断，当除数为0的时候弹出提示框</p><p>2.做了一次运算后，新输入的值不能作为操作数1被判断，必须按一次清空重置键才可以</p><p>在每次运算之后添加<br>this.result &#x3D; null;<br>this.isClear &#x3D; true;<br>使得再次进行运算的时候已经进行了重置，新输入的值就可以作为操作数1来判断</p><p>3.小数点运算会出问题</p><p>在计算结果的时候，先把结果乘100，然后用Math.round()方法取到最接近的整数，<br>再除以100，最后再用toFixed(this.num.length - 1)方法将结果转换为一个字符串并且保留比输入的数字差不多多位数的一个小数，<br>这样就可以得到一个较为准确的值</p><p>4.显示运算过程</p><p>添加一个数组processList，用于存储运算过程。<br>然后在numBtn和operatorBtn方法中，每次惦记，当前的数字和运算符都会添加到这个数组中<br>最后在h5页面添加一个view标签用来显示processList存储的运算过程</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>打卡2.0day01</title>
       <link href="/2023/04/07/%E6%89%93%E5%8D%A12-0day01/"/>
       <url>/2023/04/07/%E6%89%93%E5%8D%A12-0day01/</url>
